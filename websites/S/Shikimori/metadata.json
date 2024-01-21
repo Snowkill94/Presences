@@ -9,7 +9,10 @@
 		"en": "Shikimori is online encyclopedia of anime and manga. The full list of popular manga in Russian. Shikimori is the best anime forum to communicate in.",
 		"ru": "Шикимори — онлайн энциклопедия аниме и манги. Полный список популярной манги на русском. Shikimori — лучший аниме-форум для общения."
 	},
-	"url": "shikimori.me",
+	"url": [
+		"shikimori.me",
+		"shikimori.one"
+	],
 	"version": "1.1.9",
 	"logo": "https://cdn.rcd.gg/PreMiD/websites/S/Shikimori/assets/logo.png",
 	"thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/Shikimori/assets/thumbnail.png",
